@@ -23,10 +23,10 @@
     "check:fix": "vp check --fix"
   },
   "dependencies": {
-    "@mantine/core": "7.9.2",
+    "@mantine/core": "^9.7.2",
     "@mantine/dates": "^9.7.2",
     "@mantine/form": "^9.7.2",
-    "@mantine/hooks": "7.9.2",
+    "@mantine/hooks": "^9.7.2",
     "dayjs": "^1.11.23",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
