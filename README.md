@@ -6,7 +6,7 @@ Built using React 19, TypeScript, Mantine, Zod, and Vite as part of a frontend d
 
 ## Live Demo
 
-- **GitHub Repository:** Add your public repository URL here.
+- **GitHub Repository:** https://github.com/Hritick-kumar/geriatric-assessment-form.
 
 ## Tech Stack
 
